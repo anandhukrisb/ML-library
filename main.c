@@ -4,14 +4,14 @@ include <stdbool.h>
 include <stdint.h>
 include <string.h>
 
-typdef int8_t i8;
-typdef int16_t i16;
-typdef int32_t i32;
-typdef int64_t i64;
-typdef uint8_t u8;
-typdef uint16_t u16;
-typdef uint32_t u32;
-typdef uint64_t u64;
+typedef int8_t i8;
+typedef int16_t i16;
+typedef int32_t i32;
+typedef int64_t i64;
+typedef uint8_t u8;
+typedef uint16_t u16;
+typedef uint32_t u32;
+typedef uint64_t u64;
 
 typedef i8 b8;
 typedef i32 b32;
